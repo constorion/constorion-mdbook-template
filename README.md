@@ -1,2 +1,3 @@
-# constorion-mdbook-template
-mdBook template for constorion documentation 
+# Constorion mdBook Template
+
+> mdBook Template for Constorion Documentations.
